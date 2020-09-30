@@ -1,5 +1,4 @@
-% Tutorial 1 for EMBS - ANSWERS
-% By Binh Nguyen
+% Tutorial 1 for EMBS - Skeleton
 
 
 % A certain automobile manufacturer claims that its deluxe sports car will 
